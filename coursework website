@@ -35,7 +35,7 @@
 </div>
 
 
-/*style.css
+/*style.css*/
 body{
     background-color:rgb(255, 195, 127);
 }
